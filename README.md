@@ -1,6 +1,8 @@
 # ics-313-spring-2017-projects
 The TA is too lazy to make an actual website for this
 
+You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/web).
+
 ## The Witcher: Lost in Time 
 ### by Mark Arakaki
 ![marka2.png](images/marka2.png)
@@ -11,7 +13,7 @@ The TA is too lazy to make an actual website for this
 ### by Adam Butac
 ![adam359.jpg](images/adam359.jpg)
 
-[Presentation]()
+[Presentation](presentations/adam359.mp4)
 
 ## Cooking Quest
 ### by Lancen Daclinson
@@ -29,7 +31,7 @@ The TA is too lazy to make an actual website for this
 ### by Glenn Galvizo
 ![glennga.png](images/glennga.png)
 
-[Presentation]()
+[Presentation](presentations/glennga.mp4)
 
 ## Wizard's World DLC
 ### by Bryan Hahn
@@ -59,7 +61,7 @@ The TA is too lazy to make an actual website for this
 ### by Anthony Kuloloia
 ![akuloloi.png](images/akuloloi.png)
 
-[Presentation]()
+[Presentation](presentations/akuloloi.mp4)
 
 ## Raelin: The Trinity Jewels
 ### by Blake Larson
@@ -124,7 +126,7 @@ The TA is too lazy to make an actual website for this
 ### by Ah Lim Om
 ![ahlim.png](images/ahlim.png)
 
-[Presentation]()
+[Presentation](presentations/ahlim.mov)
 
 ## Alphabetica
 ### by Samuel Park
@@ -136,7 +138,7 @@ The TA is too lazy to make an actual website for this
 ### by William Siu
 ![wsiu4.jpg](images/wsiu4.jpg)
 
-[Presentation]()
+[Presentation](https://youtu.be/QjcUgzQEySc)
 
 ## Hospital of Horrors
 ### by Jacky So
@@ -148,7 +150,7 @@ The TA is too lazy to make an actual website for this
 ### by Ryan Theriot
 ![rtheriot.png](images/rtheriot.png)
 
-[Presentation]()
+[Presentation](https://youtu.be/3i8HH_xJgM0)
 
 ## Defeat the ASCII Cat
 ### by Kea Uehara
@@ -160,7 +162,7 @@ The TA is too lazy to make an actual website for this
 ### by Joshua Wadsack-Myers
 ![joshuajw.png](images/joshuajw.png)
 
-[Presentation]()
+[Presentation](presentations/joshuajw.mp4)
 
 ## Cat Me If You Can
 ### by Xiao Yang
@@ -172,7 +174,7 @@ The TA is too lazy to make an actual website for this
 ### by Yohan Yang
 ![yohany.png](images/yohany.png)
 
-[Presentation]()
+[Presentation](presentations/yohany.mp4)
 
 ## The Mazes of Menace
 ### by Christopher Yeager
