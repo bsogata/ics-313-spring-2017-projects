@@ -7,7 +7,7 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Mark Arakaki
 ![marka2.png](images/marka2.png)
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
 
 ## Curseon
 ### by Adam Butac
@@ -19,13 +19,13 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Lancen Daclinson
 ![lancenhd.png](images/lancenhd.png)
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
 
 ## Treasure Hunting
 ### by Minako Doi
 ![minakod.png](images/minakod.png)
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
 
 ## Sith
 ### by Glenn Galvizo
@@ -37,25 +37,25 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Bryan Hahn
 ![bryanlh.png](images/bryanlh.png)
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
 
 ## Welcome to Mainstreet
 ### by Nicole Hanabusa
 ![nicolemh.png](images/nicolemh.png)
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
 
 ## Super Wizard Savior
 ### by Hendricks Hicks
 ![hicksh.png](images/hicksh.png)
 
-[Presentation]()
+[Presentation](presentations/hicksh.ogv)
 
 ## Escape the Basement!! 
 ### by Christopher Kim
 ![ckjk.png](images/ckjk.png)
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
 
 ## An Adventure on the High Seas
 ### by Anthony Kuloloia
@@ -67,13 +67,13 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Blake Larson
 ![blake7.png](images/blake7.png)
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
 
 ## The Wizard's Missing Orchestra
 ### by Vincent Luu
 ![vluu7.png](images/vluu7.png)
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
 
 ## Labyrinth Involving Stupid Puns
 ### by William Mullen
@@ -114,13 +114,13 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ```
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
 
 ## Hacker Man
 ### by Clay Nakamura
 ![tylercn.png](images/tylercn.png)
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
 
 ## Locked Up Escape Room
 ### by Ah Lim Om
@@ -132,7 +132,7 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Samuel Park
 ![samuelhp.png](images/samuelhp.png)
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
 
 ## Defending the Castle
 ### by William Siu
@@ -144,7 +144,7 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Jacky So
 ![sojacky.png](images/sojacky.png)
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
 
 ## Alien: Escape from LISP
 ### by Ryan Theriot
@@ -156,7 +156,7 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Kea Uehara
 ![keal.png](images/keal.png)
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
 
 ## Pursuit
 ### by Joshua Wadsack-Myers
@@ -168,7 +168,7 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Xiao Yang
 ![yangxiao.png](images/yangxiao.png)
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
 
 ## Resident is Zombie
 ### by Yohan Yang
@@ -180,4 +180,4 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Christopher Yeager
 ![cgyeager.png](images/cgyeager.png)
 
-[Presentation]()
+[Presentation](presentations/placeholder.md)
