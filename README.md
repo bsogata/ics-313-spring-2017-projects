@@ -7,7 +7,7 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Mark Arakaki
 ![marka2.png](images/marka2.png)
 
-[Presentation](presentations/placeholder.md)
+[Presentation](https://youtu.be/lGyIVls6FbU)
 
 ## Curseon
 ### by Adam Butac
@@ -19,13 +19,13 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Lancen Daclinson
 ![lancenhd.png](images/lancenhd.png)
 
-[Presentation](presentations/placeholder.md)
+[Presentation](presentations/lancenhd.mov)
 
 ## Treasure Hunting
 ### by Minako Doi
 ![minakod.png](images/minakod.png)
 
-[Presentation](presentations/placeholder.md)
+[Presentation](https://youtu.be/yLolfy0LdJI)
 
 ## Sith
 ### by Glenn Galvizo
@@ -43,7 +43,7 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Nicole Hanabusa
 ![nicolemh.png](images/nicolemh.png)
 
-[Presentation](presentations/placeholder.md)
+[Presentation](https://www.youtube.com/watch?v=3SVNqhcscuM)
 
 ## Super Wizard Savior
 ### by Hendricks Hicks
@@ -67,7 +67,7 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Blake Larson
 ![blake7.png](images/blake7.png)
 
-[Presentation](presentations/placeholder.md)
+[Presentation](https://youtu.be/tl_omrTpV34)
 
 ## The Wizard's Missing Orchestra
 ### by Vincent Luu
@@ -75,7 +75,7 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 
 [Presentation](presentations/placeholder.md)
 
-## Labyrinth Involving Stupid Puns
+## Labyrinth Involving Stupid Puzzles
 ### by William Mullen
 ```
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -97,12 +97,13 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ;	______
 ;	|     |
 ;	|_____|
-;	|	UNS
+;	|	UZZLES
 ;	|
 ;
 ;		The neo-classic text-based adventure game.
 ;
-;		One way in to the Labyrinth, 24-ish ways out.
+;		One way in to the Labyrinth, three or four-ish ways out.
+;		Maybe five if you count dying.
 ;		Do you have what it takes?
 ;
 ;
@@ -114,13 +115,13 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ```
 
-[Presentation](presentations/placeholder.md)
+[Presentation](presentations/wlmullen.mp4)
 
 ## Hacker Man
 ### by Clay Nakamura
 ![tylercn.png](images/tylercn.png)
 
-[Presentation](presentations/placeholder.md)
+[Presentation](https://youtu.be/3MPTN_G01QI)
 
 ## Locked Up Escape Room
 ### by Ah Lim Om
@@ -132,7 +133,7 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Samuel Park
 ![samuelhp.png](images/samuelhp.png)
 
-[Presentation](presentations/placeholder.md)
+[Presentation](https://youtu.be/YyFzXzGQs78)
 
 ## Defending the Castle
 ### by William Siu
@@ -156,7 +157,7 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Kea Uehara
 ![keal.png](images/keal.png)
 
-[Presentation](presentations/placeholder.md)
+[Presentation](https://www.youtube.com/watch?v=4tBkkuwQZqw)
 
 ## Pursuit
 ### by Joshua Wadsack-Myers
@@ -168,7 +169,7 @@ You can vote for the best projects ![here](https://PollEv.com/surveys/khk4ydzE6/
 ### by Xiao Yang
 ![yangxiao.png](images/yangxiao.png)
 
-[Presentation](presentations/placeholder.md)
+[Presentation](https://www.youtube.com/watch?v=tc2STTXw0s0&t=7s)
 
 ## Resident is Zombie
 ### by Yohan Yang
