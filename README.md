@@ -55,7 +55,7 @@ You can vote for the best projects [here](https://PollEv.com/surveys/khk4ydzE6/w
 ### by Christopher Kim
 ![ckjk.png](images/ckjk.png)
 
-[Presentation](presentations/placeholder.md)
+[Presentation](https://youtu.be/ZQWfFT2MqMI)
 
 ## An Adventure on the High Seas
 ### by Anthony Kuloloia
