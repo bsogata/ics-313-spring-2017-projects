@@ -145,7 +145,7 @@ You can vote for the best projects [here](https://PollEv.com/surveys/khk4ydzE6/w
 ### by Jacky So
 ![sojacky.png](images/sojacky.png)
 
-[Presentation](presentations/placeholder.md)
+[Presentation](presentations/sojacky.mp4)
 
 ## Alien: Escape from LISP
 ### by Ryan Theriot
